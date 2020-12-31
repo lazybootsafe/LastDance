@@ -292,11 +292,11 @@ Pillow，numpy，matplotlib
 ## 你需要做的
 
 `git clone https://github.com/lazybootsafe/LastDance.git`
-处理好相应txt 放入目录下
-如qq.txt wx.txt 0day.txt 等等
+处理好相应txt 放入目录下  
+如qq.txt wx.txt 0day.txt 等等  
 
 `python3 -m pip -r requirements.txt`
 
 
-修改demo.py把想要的注释去掉
+修改demo.py把想要的注释去掉  
 `python3 demo.py`
